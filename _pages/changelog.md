@@ -18,7 +18,7 @@ Here are all the changes & updates to the app.
 Another Big Update🚀✌
 
 #### What's New
-- We have made the app more than a GST Calculator and option to share your calculations
+- We have made the app more than a GST Calculator and added options to share your calculations
 1. Add descriptionℹ to each calculation
 2. Share📢 a single GST Calculation with an optional description
 3. Do multiple GST Calculations and add them to a list👀
