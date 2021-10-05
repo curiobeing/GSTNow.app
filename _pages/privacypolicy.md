@@ -1,3 +1,7 @@
+---
+include_in_header: true
+---
+
 **Privacy Policy**
 
 resoso built the GST Now app as a Free app. This SERVICE is provided by resoso at no cost and is intended for use as is.
